@@ -1,0 +1,94 @@
+\documentclass[12pt, a4paper]{extarticle} %tamanho da fonte 12pts, papel A4 e duas coluna (twocolumn).
+\usepackage[brazil]{babel} %traduz o documento para o português do Brasil.
+\usepackage[utf8]{inputenc} %pacote reconhece acentuação em português
+\usepackage[left=3cm,top=2cm,right=1.5cm,bottom=2cm]{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{hyperref}
+\usepackage{lipsum}
+\usepackage{gensymb}
+\usepackage{natbib}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage[]{algorithm2e}
+\usepackage{minted}
+\usepackage{textcomp,gensymb}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{hyperref}
+\usepackage{lipsum}
+\usepackage{gensymb}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{textcomp,gensymb}
+\usepackage{listings}
+\usepackage{verbatim} %Pacote permite o uso de grandes caixas de comentário
+
+
+
+
+
+%%%%%%% CORPO DO TRABALHO  %%%%%%%
+\begin{document}
+
+\begin{titlepage}
+	
+    
+\begin{figure}[htb]
+	\centering
+	\includegraphics[scale=0.9]{Figuras/logouneb.png}
+	\label{logouneb}
+\end{figure}
+\begin{center} 
+	\textbf{UNIVERSIDADE DO ESTADO DA BAHIA - UNEB\\
+		DEPARTAMENTO DE CIÊNCIAS EXATAS E DA TERRA
+		I}\\\vspace{6cm}
+	\textbf{Engenharia na Sociedade: Impacto, Desafios e Contribuições para o Futuro Sustentável }\\\vspace{4cm} %especificar melhor o título
+    
+\hfill
+\begin{minipage}{8cm}
+Trabalho apresentado a UNEB na disciplina Computação Aplicada à Engenharia.
+\end{minipage}
+	
+	\begin{flushleft}
+		\textbf{Discentes:} Andreza Pereira e Jonas G Santos\\
+            {Orientador:} Prof° Dr° Robson Marinho
+		
+		\vspace{5cm}
+		
+	\end{flushleft}
+	Salvador\\
+	2023
+\end{center}
+\end{titlepage}
+
+
+\section{Introdução}
+A engenharia é uma disciplina fundamental que desempenha um papel vital na sociedade contemporânea. Ela se estende por uma vasta gama de setores e desempenha um papel crucial na moldagem da infraestrutura, tecnologia e qualidade de vida das pessoas. Este resumo abordará as implicações e contribuições da engenharia na sociedade, explorando como ela impacta nossa vida diária, economia e desenvolvimento sustentável.
+
+\section{Inovação e Tecnologia}
+A engenharia é um motor da inovação e tecnologia. Ela impulsiona o desenvolvimento de novas soluções, desde dispositivos eletrônicos avançados até sistemas de comunicação global. A criação e melhoria de tecnologias têm revolucionado a maneira como nos comunicamos, trabalhamos e vivemos. Por exemplo, a engenharia de software tornou possível aplicativos móveis e redes sociais, conectando pessoas em todo o mundo.
+
+\section{Infraestrutura e Desenvolvimento Urbano}
+A engenharia desempenha um papel crucial na construção e manutenção da infraestrutura essencial para a sociedade. Ela projeta e constrói estradas, pontes, edifícios e sistemas de transporte que sustentam as atividades humanas. A engenharia civil é um componente vital para o desenvolvimento urbano sustentável, garantindo que as cidades possam acomodar o crescimento populacional e fornecer serviços essenciais.
+
+\section{Soluções para Desafios Globais}
+Engenheiros estão na vanguarda da busca por soluções para desafios globais, como mudanças climáticas, escassez de recursos e poluição. A engenharia ambiental desenvolve métodos para tratar água e resíduos, reduzindo os impactos negativos no meio ambiente. Além disso, a engenharia de energia trabalha em fontes renováveis e eficiência energética para diminuir a dependência de combustíveis fósseis.
+
+\section{Economia e Emprego}
+A engenharia contribui significativamente para a economia global, criando empregos e impulsionando o crescimento. A pesquisa e desenvolvimento em engenharia geram produtos e tecnologias que, por sua vez, criam indústrias inteiras. Além disso, a formação de engenheiros qualificados incentiva a inovação e atrai investimentos, fortalecendo as bases econômicas das nações.
+
+\section{Desafios Éticos e Sociais}
+Apesar de suas contribuições positivas, a engenharia também enfrenta desafios éticos e sociais. A rápida evolução tecnológica pode levantar preocupações sobre privacidade, segurança cibernética e automação de empregos. Os engenheiros também devem considerar as implicações sociais de suas criações, garantindo que tecnologias como inteligência artificial sejam desenvolvidas de maneira responsável.
+
+\section{Desenvolvimento Sustentável}
+A engenharia tem um papel crucial na busca pelo desenvolvimento sustentável. Através do design de produtos, processos e infraestruturas eficientes em termos de recursos, os engenheiros contribuem para a conservação do meio ambiente e a promoção de estilos de vida mais sustentáveis. A consideração dos impactos sociais e ambientais a longo prazo é essencial para assegurar um futuro equilibrado.
+
+\section{Conclusão}
+Em resumo, a engenharia está enraizada no cerne da sociedade moderna, moldando nossas vidas de maneiras profundas e diversas. Sua influência é vista em todas as áreas, desde tecnologia até infraestrutura e meio ambiente. Ao enfrentar os desafios atuais e futuros, os engenheiros têm a responsabilidade de inovar com ética e considerar o impacto a longo prazo de suas criações, garantindo um futuro sustentável e próspero para a sociedade.
+
+\end{document}
